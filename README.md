@@ -30,6 +30,7 @@
 ├── 🏛️ <a href="https://github.com/Maria-TM1/odyssey-hybrid-rag">Odyssey Hybrid RAG (Master's thesis)</a>        Qdrant · hybrid retrieval · statistics
 ├── 🚗 <a href="https://github.com/Maria-TM1/yolo-deepsort-tracking">Traffic Detection & Tracking</a>                YOLO11 · DeepSORT · computer vision
 ├── 💬 <a href="https://github.com/Maria-TM1/nlp-sentiment-analysis">NLP: from TF-IDF to Transformers</a>            Word2Vec · LSTM · sentence-transformers
+├── 👕 <a href="https://github.com/Maria-TM1/fashion-mnist-cnn">Fashion-MNIST CNN</a>                           PyTorch · CNN · test accuracy 92%
 └── 🔒 Conversational AI · Voice Bot & CRM          private · client project
 </pre>
 
