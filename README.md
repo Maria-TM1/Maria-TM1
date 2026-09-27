@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1a2b,100:14b8a6&height=210&section=header&text=Mar%C3%ADa%20Tocado%20Murillo&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Applied%20AI%20%26%20Data%20Scientist%20%C2%B7%20Generative%20AI%20%C2%B7%20RAG%20%C2%B7%20Voice%20Bots&descSize=17&descAlignY=58" alt="María Tocado Murillo · Applied AI & Data Scientist" width="100%">
+  <img src="assets/header.svg" alt="María Tocado Murillo · Applied AI & Data Scientist" width="100%">
 </p>
 
 <p align="center">
@@ -98,5 +98,5 @@
 Master's in Artificial Intelligence (UDIT) · Degree in Mathematical Sciences (UCM) · Azure AI Fundamentals
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0e1a2b&height=110&section=footer" alt="" width="100%">
+  <img src="assets/footer.svg" alt="" width="100%">
 </p>

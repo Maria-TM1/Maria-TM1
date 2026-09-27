@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0.3">
+      <stop offset="0" stop-color="#0e1a2b"/>
+      <stop offset="0.6" stop-color="#16324a"/>
+      <stop offset="1" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 0H1200V185C1050 225 900 150 750 175C600 200 450 240 300 215C180 195 80 170 0 190Z" fill="url(#g)"/>
+  <circle cx="1080" cy="30" r="120" fill="none" stroke="#5eead4" stroke-opacity="0.25" stroke-width="2"/>
+  <circle cx="1080" cy="30" r="165" fill="none" stroke="#5eead4" stroke-opacity="0.12" stroke-width="2"/>
+  <text x="600" y="98" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#ffffff">María Tocado Murillo</text>
+  <text x="600" y="140" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#5eead4" letter-spacing="1">APPLIED AI &amp; DATA SCIENTIST</text>
+  <text x="600" y="172" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#cfd9e4">Generative AI · RAG · LangGraph agents · Voice bots · Computer vision</text>
+</svg>
