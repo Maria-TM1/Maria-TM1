@@ -8,13 +8,14 @@ I spent 20+ years turning data into business decisions in insurance, banking and
 
 | Project | What it shows |
 |---|---|
-| [**Auditable Hybrid RAG · The Odyssey**](https://github.com/Maria-TM1/odyssey-hybrid-rag) | Hierarchical hybrid retrieval over Qdrant (dense + lexical, RRF) · Hit@1 = MRR = 1.00 · RAG beats baseline (p = 0.027) · Master's thesis, featured by UDIT |
+| [**Auditable Hybrid RAG · The Odyssey**](https://github.com/Maria-TM1/odyssey-hybrid-rag) | Hierarchical hybrid retrieval over Qdrant (dense + lexical, RRF) · Hit@1 = MRR = 1.00 on independent validation · RAG beats baseline (p = 0.027) · Master's thesis, featured by UDIT |
 | [**Detection & Tracking for Autonomous Driving**](https://github.com/Maria-TM1/yolo-deepsort-tracking) | Fine-tuned YOLO11s + DeepSORT on 52,851 images · test mAP@0.5 = 0.776 |
-| **Multichannel AI Assistant & CRM** *(private · client project)* | Web / Instagram / WhatsApp assistant with voice, LLMs and CRM automation |
+| [**NLP: from TF-IDF to Transformers**](https://github.com/Maria-TM1/nlp-sentiment-analysis) | Sentiment analysis with TF-IDF, Word2Vec, LSTM (PyTorch) and sentence-transformers · team project |
+| **Conversational AI · Voice Bot & CRM** *(private · client project)* | Web / Instagram / WhatsApp assistant with voice (STT/TTS), LLMs, REST APIs and CRM automation |
 
 ### 🛠️ Stack
 
-`Python` `LLMs` `RAG` `Embeddings` `Qdrant` `LangChain` `LangGraph` `FastEmbed` `Groq` `Gemini` `YOLO` `DeepSORT` `PyTorch` `SQL` `Docker` `Git` `R` `SAS` `Power BI`
+`Python` `LLMs` `RAG` `Embeddings` `Qdrant` `LangChain` `LangGraph` `FastEmbed` `Groq` `Gemini` `sentence-transformers` `scikit-learn` `YOLO` `DeepSORT` `PyTorch` `SQL` `Docker` `Git` `R` `SAS` `Power BI`
 
 ### 🎓 Background
 
