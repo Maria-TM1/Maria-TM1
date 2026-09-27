@@ -69,9 +69,23 @@
       <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square" alt="Transformers">
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>👕 <a href="https://github.com/Maria-TM1/fashion-mnist-cnn">Fashion-MNIST · CNN with a Business Constraint</a></h4>
+      CNN clothing classification with a clean train / validation / test protocol. <b>Test accuracy 92%</b> · T-shirt recall 0.93 · error analysis across three models.<br><br>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+      <img src="https://img.shields.io/badge/CNN-0e1a2b?style=flat-square" alt="CNN">
+      <img src="https://img.shields.io/badge/Deep%20Learning-14b8a6?style=flat-square" alt="Deep Learning">
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔒 Conversational AI · Voice Bot & CRM</h4>
+      <i>Private · client project.</i> Web / Instagram / WhatsApp assistant with voice (STT/TTS), LLMs, REST APIs and CRM automation.<br><br>
+      <img src="https://img.shields.io/badge/Voice%20bot-STT%20%2F%20TTS-0e1a2b?style=flat-square" alt="Voice bot">
+      <img src="https://img.shields.io/badge/REST%20APIs-14b8a6?style=flat-square" alt="REST APIs">
+      <img src="https://img.shields.io/badge/CRM-automation-f59e0b?style=flat-square" alt="CRM automation">
+    </td>
+  </tr>
 </table>
-
-🔒 **Conversational AI · Voice Bot & CRM** *(private · client project)* — web / Instagram / WhatsApp assistant with voice (STT/TTS), LLMs, REST APIs and CRM automation.
 
 ### 🛠️ Tech stack
 
