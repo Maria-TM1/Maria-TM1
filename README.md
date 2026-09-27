@@ -1,8 +1,25 @@
-## Hi, I'm María 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1a2b,100:14b8a6&height=210&section=header&text=Mar%C3%ADa%20Tocado%20Murillo&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Applied%20AI%20%26%20Data%20Scientist%20%C2%B7%20Generative%20AI%20%C2%B7%20RAG%20%C2%B7%20Voice%20Bots&descSize=17&descAlignY=58" alt="María Tocado Murillo · Applied AI & Data Scientist" width="100%">
+</p>
 
-**Applied AI & Data Scientist** · Mathematician & Statistician · Lugo, Spain · Remote
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1400&color=14B8A6&center=true&vCenter=true&width=680&lines=RAG+%C2%B7+Embeddings+%C2%B7+Vector+databases;LangGraph+agents+%C2%B7+Voice+bots+(STT+%2F+TTS);Computer+vision+%C2%B7+NLP+%C2%B7+Deep+learning;Mathematician+%26+Statistician+%C2%B7+20%2B+years+in+data" alt="Typing SVG">
+</p>
 
-I spent 20+ years turning data into business decisions in insurance, banking and healthcare. Now I build **Generative AI systems end to end**: RAG with embeddings and vector search, LLM applications, conversational agents and computer vision — measured with the same statistical rigour.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mar%C3%ADa-tocado-murillo/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mariatocadomurillo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20roles-0e1a2b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Open to remote roles">
+</p>
+
+---
+
+### 👩‍💻 About me
+
+- 🧮 **Mathematician & statistician** with 20+ years turning data into business decisions in insurance, banking and healthcare.
+- 🤖 Now building **Generative AI systems end to end**: RAG with embeddings and vector search, LangGraph agents, voice bots and computer vision.
+- 📏 I measure what I build — retrieval metrics, statistical tests, honest limitations.
+- 🌍 Based in Lugo, Spain · **working remotely**.
 
 ### 🗂️ AI Portfolio
 
@@ -18,20 +35,68 @@ I spent 20+ years turning data into business decisions in insurance, banking and
 
 ### 🔭 Featured projects
 
-| Project | What it shows |
-|---|---|
-| [**CulinarIA · LLM Recipe Assistant**](https://github.com/Maria-TM1/culinaria-recipe-assistant) | LangGraph agent with LLM routing, conversational memory, RAG over Chroma and deterministic allergen safety · FastAPI + web UI with voice · team project |
-| [**Auditable Hybrid RAG · The Odyssey**](https://github.com/Maria-TM1/odyssey-hybrid-rag) | Hierarchical hybrid retrieval over Qdrant (dense + lexical, RRF) · Hit@1 = MRR = 1.00 on independent validation · RAG beats baseline (p = 0.027) · Master's thesis, featured by UDIT |
-| [**Detection & Tracking for Autonomous Driving**](https://github.com/Maria-TM1/yolo-deepsort-tracking) | Fine-tuned YOLO11s + DeepSORT on 52,851 images · test mAP@0.5 = 0.776 |
-| [**NLP: from TF-IDF to Transformers**](https://github.com/Maria-TM1/nlp-sentiment-analysis) | Sentiment analysis with TF-IDF, Word2Vec, LSTM (PyTorch) and sentence-transformers · team project |
-| **Conversational AI · Voice Bot & CRM** *(private · client project)* | Web / Instagram / WhatsApp assistant with voice (STT/TTS), LLMs, REST APIs and CRM automation |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🍳 <a href="https://github.com/Maria-TM1/culinaria-recipe-assistant">CulinarIA · LLM Recipe Assistant</a></h4>
+      LangGraph agent with LLM routing, conversational memory, RAG over Chroma and <b>deterministic allergen safety</b>. FastAPI backend + web UI with voice.<br><br>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph">
+      <img src="https://img.shields.io/badge/RAG-Chroma-FF6B6B?style=flat-square" alt="Chroma">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏛️ <a href="https://github.com/Maria-TM1/odyssey-hybrid-rag">Auditable Hybrid RAG · The Odyssey</a></h4>
+      Hierarchical hybrid retrieval (dense + lexical, RRF) over Qdrant. <b>Hit@1 = MRR = 1.00</b> on independent validation · RAG beats baseline (<b>p = 0.027</b>). Master's thesis, featured by UDIT.<br><br>
+      <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant">
+      <img src="https://img.shields.io/badge/FastEmbed-0f8f82?style=flat-square" alt="FastEmbed">
+      <img src="https://img.shields.io/badge/Llama%203.3-Groq-F55036?style=flat-square" alt="Groq">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚗 <a href="https://github.com/Maria-TM1/yolo-deepsort-tracking">Detection & Tracking for Autonomous Driving</a></h4>
+      Fine-tuned YOLO11s + DeepSORT on 52,851 driving images. <b>Test mAP@0.5 = 0.776</b>.<br><br>
+      <img src="https://img.shields.io/badge/YOLO11-111F68?style=flat-square" alt="YOLO11">
+      <img src="https://img.shields.io/badge/DeepSORT-0f8f82?style=flat-square" alt="DeepSORT">
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+    </td>
+    <td width="50%" valign="top">
+      <h4>💬 <a href="https://github.com/Maria-TM1/nlp-sentiment-analysis">NLP: from TF-IDF to Transformers</a></h4>
+      Sentiment analysis across four stages: TF-IDF, Word2Vec, LSTM in PyTorch and sentence-transformers.<br><br>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square" alt="Transformers">
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Stack
+🔒 **Conversational AI · Voice Bot & CRM** *(private · client project)* — web / Instagram / WhatsApp assistant with voice (STT/TTS), LLMs, REST APIs and CRM automation.
 
-`Python` `LLMs` `RAG` `Embeddings` `Qdrant` `LangChain` `LangGraph` `Chroma` `FastAPI` `FastEmbed` `Groq` `Gemini` `sentence-transformers` `scikit-learn` `YOLO` `DeepSORT` `PyTorch` `SQL` `Docker` `Git` `R` `SAS` `Power BI`
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,git,github,r,azure,vscode&theme=dark" alt="Tech stack icons">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-0e1a2b?style=flat-square" alt="LLMs">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph">
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant">
+  <img src="https://img.shields.io/badge/Chroma-FF6B6B?style=flat-square" alt="Chroma">
+  <img src="https://img.shields.io/badge/sentence--transformers-FFD21E?style=flat-square" alt="sentence-transformers">
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square" alt="YOLO">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/SAS-0766D1?style=flat-square" alt="SAS">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+</p>
 
 ### 🎓 Background
 
 Master's in Artificial Intelligence (UDIT) · Degree in Mathematical Sciences (UCM) · Azure AI Fundamentals
 
-📫 [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-tocado-murillo/) · mariatocadomurillo@gmail.com
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0e1a2b&height=110&section=footer" alt="" width="100%">
+</p>
