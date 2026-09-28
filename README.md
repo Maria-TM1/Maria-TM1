@@ -32,6 +32,7 @@
 ├── 💬 <a href="https://github.com/Maria-TM1/nlp-sentiment-analysis">NLP: from TF-IDF to Transformers</a>            Word2Vec · LSTM · sentence-transformers
 ├── 👕 <a href="https://github.com/Maria-TM1/fashion-mnist-cnn">Fashion-MNIST CNN</a>                           PyTorch · CNN · test accuracy 92%
 ├── 🔍 <a href="https://github.com/Maria-TM1/sales-leakage-audit">Sales Prediction · Data-Leakage Audit</a>       scikit-learn · CV · permutation test
+├── 🏥 <a href="https://github.com/Maria-TM1/hospital-readmission-ml">Hospital Readmission · 9-Model Comparison</a>   R · tidymodels · bootstrap CI
 └── 🔒 Conversational AI · Voice Bot & CRM          private · client project
 </pre>
 
@@ -84,6 +85,15 @@
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
       <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
       <img src="https://img.shields.io/badge/Data%20leakage-audit-f59e0b?style=flat-square" alt="Data leakage audit">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏥 <a href="https://github.com/Maria-TM1/hospital-readmission-ml">Hospital Readmission · 9-Model Comparison</a></h4>
+      Logistic, Lasso, tree, random forest, XGBoost, KNN, SVM and neural net, one protocol. <b>Bootstrap 95% CIs</b> show no model beats plain logistic regression.<br><br>
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+      <img src="https://img.shields.io/badge/tidymodels-1F65A6?style=flat-square" alt="tidymodels">
+      <img src="https://img.shields.io/badge/Bootstrap%20CI-475569?style=flat-square" alt="Bootstrap CI">
     </td>
   </tr>
   <tr>
