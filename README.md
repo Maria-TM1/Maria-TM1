@@ -31,6 +31,7 @@
 ├── 🚗 <a href="https://github.com/Maria-TM1/yolo-deepsort-tracking">Traffic Detection & Tracking</a>                YOLO11 · DeepSORT · computer vision
 ├── 💬 <a href="https://github.com/Maria-TM1/nlp-sentiment-analysis">NLP: from TF-IDF to Transformers</a>            Word2Vec · LSTM · sentence-transformers
 ├── 👕 <a href="https://github.com/Maria-TM1/fashion-mnist-cnn">Fashion-MNIST CNN</a>                           PyTorch · CNN · test accuracy 92%
+├── 🔍 <a href="https://github.com/Maria-TM1/sales-leakage-audit">Sales Prediction · Data-Leakage Audit</a>       scikit-learn · CV · permutation test
 └── 🔒 Conversational AI · Voice Bot & CRM          private · client project
 </pre>
 
@@ -77,6 +78,15 @@
       <img src="https://img.shields.io/badge/CNN-475569?style=flat-square" alt="CNN">
       <img src="https://img.shields.io/badge/Deep%20Learning-14b8a6?style=flat-square" alt="Deep Learning">
     </td>
+    <td width="50%" valign="top">
+      <h4>🔍 <a href="https://github.com/Maria-TM1/sales-leakage-audit">Sales Prediction · Data-Leakage Audit</a></h4>
+      A model with <b>R² = 0.92</b> that had learned nothing: target leakage detected, removed and verified with repeated CV and a <b>permutation test (p = 0.99)</b>.<br><br>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+      <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+      <img src="https://img.shields.io/badge/Data%20leakage-audit-f59e0b?style=flat-square" alt="Data leakage audit">
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🔒 Conversational AI · Voice Bot & CRM</h4>
       <i>Private · client project.</i> Web / Instagram / WhatsApp assistant with voice (STT/TTS), LLMs, REST APIs and CRM automation.<br><br>
