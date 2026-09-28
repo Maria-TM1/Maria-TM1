@@ -33,6 +33,7 @@
 ├── 👕 <a href="https://github.com/Maria-TM1/fashion-mnist-cnn">Fashion-MNIST CNN</a>                           PyTorch · CNN · test accuracy 92%
 ├── 🔍 <a href="https://github.com/Maria-TM1/sales-leakage-audit">Sales Prediction · Data-Leakage Audit</a>       scikit-learn · CV · permutation test
 ├── 🏥 <a href="https://github.com/Maria-TM1/hospital-readmission-ml">Hospital Readmission · 9-Model Comparison</a>   R · tidymodels · bootstrap CI
+├── 📡 <a href="https://github.com/Maria-TM1/churn-prediction-api">Churn Prediction API</a>                        scikit-learn · FastAPI · pytest
 └── 🔒 Conversational AI · Voice Bot & CRM          private · client project
 </pre>
 
@@ -94,6 +95,13 @@
       <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
       <img src="https://img.shields.io/badge/tidymodels-1F65A6?style=flat-square" alt="tidymodels">
       <img src="https://img.shields.io/badge/Bootstrap%20CI-475569?style=flat-square" alt="Bootstrap CI">
+    </td>
+    <td width="50%" valign="top">
+      <h4>📡 <a href="https://github.com/Maria-TM1/churn-prediction-api">Churn Prediction API</a></h4>
+      A scikit-learn pipeline served with FastAPI — token auth, rate limiting, full validation. Two real bugs found and fixed; <b>12 tests passing</b>.<br><br>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/pytest-12%20passing-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
     </td>
   </tr>
   <tr>
